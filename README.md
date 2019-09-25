@@ -16,7 +16,8 @@ Each page has single article with below details
  #### Title
  #### Author Details
  #### Content rendered from body element as html
- 
+
+### Requisites:
 Image src from the raw html content is replaced with the required url.
 
 Header contains a search option, where the user can search for any text that are available under the TITLE, AUTHOR or the BODY
