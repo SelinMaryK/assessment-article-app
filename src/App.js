@@ -52,7 +52,8 @@ function App() {
     setCurrentPage(pageNumber)
     updateImage();
   }
-
+  
+  //Method to search articles, display and update the pagination count 
   const searchResult = (value) =>{
     let filteredData;
     if(value.length>0){
