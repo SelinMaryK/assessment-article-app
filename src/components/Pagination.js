@@ -1,7 +1,7 @@
 import React from 'react';
 import '../App.css';
 
-//Method to update the pagination logic based on the total number of the articles rendered
+//Method to update the pagination logic based on the total number of the articles rendered.
 const Pagination = ({ articlePerPage, totalArticles, paginate, currentPage }) => {
   const pageNumbers = [];
 
